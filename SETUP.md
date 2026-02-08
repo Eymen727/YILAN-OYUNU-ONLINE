@@ -182,3 +182,4 @@ Sorunlarla karşılaşırsanız veya öneriniz varsa lütfen issue açınız.
 ---
 
 **Oyunun Tadını Çıkar!** 🐍🎮
+
